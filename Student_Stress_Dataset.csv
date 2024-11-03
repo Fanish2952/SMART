@@ -1,0 +1,101 @@
+Student_ID,Age,Gender,Year_of_Study,Family_Support,Student_Behavior,Placement_Status,Sleep_Hours,Academic_Stress_Level,Financial_Stress_Level,Family_Stress_Level,Emotional_Stress_Level,Total_Stress_Level,Main_Stress_Source,Counseling_Need,Proposed_Remedy,Coping_Mechanisms_Used,Risky_Behaviors_Engaged,CGPA,Parental_Income
+101,19,M,3,Medium,Reserved,Not Placed,4,4,2,5,3,14,Family,1,Academic Counseling,Socializing,0,2.8,39540
+102,23,F,4,Low,Reactive,Not Eligible,6,3,2,6,5,16,Family,0,Financial Aid Consultation,Socializing,0,2.35,21331
+103,19,F,3,High,Reserved,Placed,4,6,9,4,2,21,Financial,0,Academic Counseling,Journaling,1,3.23,48483
+104,21,M,2,Medium,Aggressive,Not Eligible,4,10,2,8,1,21,Academic,0,Emotional Support Workshop,Reading,0,3.35,37263
+105,20,M,3,Low,Aggressive,Not Placed,5,6,7,10,1,24,Family,1,Financial Aid Consultation,Socializing,1,3.96,51514
+106,19,F,1,Medium,Positive,Not Eligible,7,6,5,10,4,25,Family,1,Peer Support,Reading,0,3.01,19378
+107,21,M,1,High,Reserved,Not Placed,4,3,2,3,10,18,Emotional,1,Financial Aid Consultation,Exercise,1,2.1,59932
+108,24,F,2,Low,Reserved,Placed,8,6,2,10,8,26,Family,0,Emotional Support Workshop,Meditation,0,2.93,46573
+109,20,M,2,Medium,Positive,Placed,5,1,2,7,2,12,Family,1,Financial Aid Consultation,Meditation,1,3.79,57871
+110,23,M,1,Low,Reserved,Placed,5,9,3,6,2,20,Academic,1,Academic Counseling,Meditation,1,3.48,43299
+111,19,F,1,High,Reactive,Not Placed,8,3,6,5,6,20,Financial,1,Family Counseling,Reading,0,2.28,41688
+112,20,M,2,Low,Aggressive,Not Placed,8,6,1,2,7,16,Emotional,1,Emotional Support Workshop,Meditation,1,3.16,19532
+113,22,M,4,Low,Aggressive,Not Placed,4,7,10,6,1,24,Financial,0,Family Counseling,Reading,1,2.39,52560
+114,20,M,4,High,Reserved,Placed,8,3,9,3,2,17,Financial,1,Family Counseling,Meditation,0,3.1,46638
+115,24,F,1,Low,Reactive,Placed,7,6,3,7,5,21,Family,1,Family Counseling,Socializing,0,3.97,57603
+116,24,M,1,Medium,Reserved,Placed,8,8,6,1,1,16,Academic,1,Family Counseling,Journaling,0,3.11,51682
+117,19,F,1,High,Aggressive,Placed,7,3,7,1,1,12,Financial,1,Family Counseling,Exercise,0,2.01,18867
+118,20,F,4,High,Reactive,Placed,7,1,6,1,8,16,Emotional,0,Peer Support,Journaling,0,2.49,51439
+119,22,M,1,Low,Reactive,Placed,7,7,8,8,2,25,Financial,1,Emotional Support Workshop,Journaling,0,2.41,30486
+120,24,F,1,Low,Aggressive,Not Eligible,8,7,2,6,1,16,Academic,0,Financial Aid Consultation,Meditation,0,3.13,16749
+121,19,F,2,Medium,Reserved,Not Eligible,6,7,4,6,8,25,Emotional,1,Family Counseling,Journaling,0,2.68,48882
+122,19,F,4,High,Reactive,Placed,5,10,10,9,7,36,Academic,0,Family Counseling,Meditation,1,2.03,54133
+123,23,F,1,High,Reactive,Not Eligible,8,1,7,3,2,13,Financial,0,Financial Aid Consultation,Journaling,1,3.89,20233
+124,21,M,2,Low,Positive,Placed,4,6,3,6,9,24,Emotional,1,Financial Aid Consultation,Reading,1,2.87,30502
+125,21,M,1,Low,Aggressive,Placed,5,6,9,8,1,24,Financial,0,Financial Aid Consultation,Socializing,0,2.25,36626
+126,19,M,4,Medium,Positive,Placed,7,6,1,3,8,18,Emotional,0,Peer Support,Exercise,1,3.61,19213
+127,24,F,2,Low,Reactive,Not Eligible,6,10,2,2,7,21,Academic,0,Academic Counseling,Reading,1,2.35,27092
+128,21,M,1,High,Reactive,Not Placed,5,8,2,7,5,22,Academic,0,Financial Aid Consultation,Journaling,0,3.44,17003
+129,21,M,1,High,Reserved,Placed,7,1,8,2,8,19,Financial,0,Peer Support,Journaling,0,2.41,43678
+130,23,M,3,Medium,Aggressive,Not Placed,8,4,7,3,6,20,Financial,0,Financial Aid Consultation,Journaling,1,3.06,43084
+131,21,F,3,High,Reserved,Placed,4,8,8,6,8,30,Academic,1,Academic Counseling,Journaling,1,2.01,17535
+132,20,F,1,Low,Positive,Placed,4,9,4,8,1,22,Academic,0,Family Counseling,Meditation,0,3.31,29078
+133,22,M,3,High,Reactive,Not Eligible,5,1,6,7,5,19,Family,0,Financial Aid Consultation,Journaling,0,3.47,21268
+134,21,M,1,Medium,Aggressive,Not Placed,6,1,8,6,4,19,Financial,0,Family Counseling,Socializing,1,3.09,55018
+135,22,M,4,High,Reserved,Not Placed,7,6,9,6,2,23,Financial,1,Academic Counseling,Reading,0,3.16,49388
+136,24,F,4,Medium,Reserved,Not Eligible,8,6,5,3,8,22,Emotional,0,Academic Counseling,Journaling,0,3.98,50141
+137,22,F,3,High,Reserved,Not Placed,6,4,6,5,4,19,Financial,0,Financial Aid Consultation,Exercise,0,3.67,46489
+138,20,M,4,Low,Reserved,Placed,5,4,1,2,4,11,Academic,0,Family Counseling,Exercise,1,3.7,57005
+139,22,M,3,Medium,Aggressive,Placed,7,2,9,4,3,18,Financial,0,Family Counseling,Journaling,1,2.79,22845
+140,24,M,3,Low,Aggressive,Not Eligible,6,8,7,5,2,22,Academic,1,Family Counseling,Meditation,1,2.35,57783
+141,21,F,3,Low,Aggressive,Not Eligible,6,6,6,10,9,31,Family,0,Emotional Support Workshop,Exercise,0,3.5,47431
+142,20,F,2,Low,Reactive,Placed,4,5,7,4,9,25,Emotional,1,Family Counseling,Exercise,0,2.31,27262
+143,22,M,3,High,Positive,Placed,8,10,8,10,6,34,Academic,0,Emotional Support Workshop,Reading,0,3.67,41367
+144,24,M,4,Low,Aggressive,Not Eligible,7,1,5,2,4,12,Financial,0,Peer Support,Socializing,1,3.4,38320
+145,24,F,3,Low,Aggressive,Not Placed,6,6,9,9,1,25,Financial,0,Academic Counseling,Reading,1,3.21,51252
+146,24,M,2,Medium,Reserved,Placed,6,1,9,2,3,15,Financial,1,Peer Support,Socializing,1,2.74,17103
+147,18,F,1,High,Reserved,Not Eligible,4,9,1,8,4,22,Academic,0,Financial Aid Consultation,Meditation,1,3.01,30509
+148,23,F,2,Medium,Aggressive,Not Placed,4,3,8,4,1,16,Financial,1,Peer Support,Meditation,1,3.99,33356
+149,24,M,2,Medium,Aggressive,Placed,4,4,1,4,10,19,Emotional,1,Emotional Support Workshop,Reading,0,2.91,17730
+150,21,F,3,High,Reactive,Placed,6,7,8,6,5,26,Financial,1,Emotional Support Workshop,Reading,1,3.81,21367
+151,24,M,2,Low,Reserved,Placed,8,5,5,1,2,13,Academic,0,Family Counseling,Meditation,0,3.69,30054
+152,19,M,3,Low,Positive,Placed,4,5,2,5,6,18,Emotional,0,Family Counseling,Socializing,1,3.34,55786
+153,19,M,2,Low,Reserved,Not Placed,8,9,3,1,5,18,Academic,1,Emotional Support Workshop,Meditation,1,2.49,47206
+154,21,M,1,High,Reactive,Not Eligible,6,3,4,9,8,24,Family,1,Peer Support,Exercise,0,2.9,56197
+155,19,M,4,Low,Positive,Not Placed,7,4,7,8,8,27,Family,0,Family Counseling,Socializing,1,3.22,55825
+156,23,F,1,Low,Positive,Not Eligible,5,4,1,8,10,23,Emotional,0,Financial Aid Consultation,Socializing,0,2.22,15927
+157,18,M,3,Medium,Aggressive,Not Placed,4,4,2,7,1,14,Family,1,Academic Counseling,Journaling,0,2.23,28875
+158,18,F,1,High,Reserved,Not Eligible,8,5,7,4,4,20,Financial,0,Financial Aid Consultation,Meditation,1,3.65,37926
+159,24,M,4,Low,Aggressive,Not Placed,8,6,9,4,8,27,Financial,0,Financial Aid Consultation,Meditation,1,2.52,36621
+160,20,M,1,Medium,Reserved,Placed,5,3,9,9,7,28,Financial,0,Financial Aid Consultation,Journaling,0,3.58,41529
+161,23,F,3,Low,Reactive,Not Placed,4,4,5,1,8,18,Emotional,1,Academic Counseling,Reading,1,3.81,39524
+162,19,M,4,Low,Aggressive,Not Eligible,7,5,7,5,3,20,Financial,0,Financial Aid Consultation,Meditation,1,2.89,31079
+163,21,M,2,Medium,Positive,Placed,4,2,2,7,3,14,Family,1,Family Counseling,Journaling,1,3.2,35461
+164,24,F,1,Low,Aggressive,Not Eligible,4,7,4,5,2,18,Academic,1,Financial Aid Consultation,Socializing,0,3.22,24498
+165,23,M,2,Medium,Aggressive,Not Placed,5,7,2,6,6,21,Academic,1,Peer Support,Reading,0,2.78,21406
+166,23,M,2,High,Reserved,Placed,6,1,9,2,9,21,Financial,1,Academic Counseling,Meditation,0,3.89,22956
+167,22,F,2,High,Reactive,Placed,5,8,1,2,5,16,Academic,1,Peer Support,Journaling,0,3.39,22849
+168,20,F,2,High,Positive,Not Eligible,4,10,4,7,5,26,Academic,1,Academic Counseling,Journaling,0,3.1,31800
+169,24,M,1,Medium,Reactive,Placed,6,6,6,8,1,21,Family,0,Emotional Support Workshop,Reading,0,3.07,29861
+170,21,M,2,Low,Reactive,Not Eligible,8,5,7,1,3,16,Financial,1,Peer Support,Socializing,1,2.21,21596
+171,19,M,3,Medium,Positive,Placed,8,1,6,10,9,26,Family,1,Financial Aid Consultation,Journaling,1,2.5,30597
+172,20,M,2,Low,Positive,Not Eligible,4,9,1,4,4,18,Academic,1,Emotional Support Workshop,Journaling,1,2.79,17111
+173,20,M,4,Medium,Positive,Not Placed,8,1,7,1,2,11,Financial,1,Emotional Support Workshop,Journaling,1,2.52,38411
+174,19,F,4,Low,Reactive,Not Eligible,8,4,3,1,2,10,Academic,0,Academic Counseling,Reading,1,2.7,24554
+175,20,F,2,High,Positive,Not Eligible,6,8,5,5,1,19,Academic,0,Peer Support,Socializing,0,3.05,36263
+176,21,F,3,Medium,Positive,Not Eligible,6,1,3,7,9,20,Emotional,0,Family Counseling,Journaling,1,3.0,57849
+177,22,M,2,Medium,Positive,Not Eligible,6,9,4,5,5,23,Academic,1,Peer Support,Exercise,0,3.73,21982
+178,24,M,1,Low,Aggressive,Placed,5,6,2,7,5,20,Family,0,Peer Support,Socializing,1,2.67,17526
+179,20,M,4,Medium,Reactive,Not Placed,6,7,3,1,2,13,Academic,0,Family Counseling,Reading,1,3.47,18293
+180,22,F,1,Low,Reactive,Not Placed,4,2,6,3,3,14,Financial,1,Peer Support,Meditation,1,2.86,29928
+181,19,F,1,High,Positive,Not Placed,7,5,4,9,10,28,Emotional,0,Financial Aid Consultation,Journaling,0,2.85,35756
+182,24,M,2,Medium,Aggressive,Not Eligible,7,7,5,5,6,23,Academic,0,Family Counseling,Journaling,0,3.79,36882
+183,24,M,4,High,Reactive,Not Placed,4,6,1,1,4,12,Academic,0,Emotional Support Workshop,Reading,1,3.54,49730
+184,21,F,2,Low,Positive,Placed,5,9,7,5,2,23,Academic,1,Emotional Support Workshop,Socializing,0,3.83,36968
+185,20,F,4,High,Reactive,Placed,5,6,2,7,10,25,Emotional,0,Family Counseling,Reading,0,2.51,16146
+186,20,F,4,Medium,Positive,Not Placed,4,10,4,9,4,27,Academic,0,Financial Aid Consultation,Socializing,0,2.28,40271
+187,23,F,1,High,Reactive,Placed,7,5,10,8,1,24,Financial,1,Emotional Support Workshop,Reading,0,2.92,34598
+188,24,F,2,Low,Reactive,Placed,4,7,10,3,7,27,Financial,1,Academic Counseling,Exercise,0,3.09,48436
+189,20,M,2,High,Positive,Not Eligible,6,8,4,5,7,24,Academic,0,Financial Aid Consultation,Journaling,1,3.01,54342
+190,19,F,3,Low,Reactive,Not Eligible,6,4,10,1,6,21,Financial,1,Emotional Support Workshop,Journaling,1,2.58,40724
+191,20,F,3,Low,Aggressive,Not Eligible,5,2,6,9,4,21,Family,1,Family Counseling,Reading,1,2.78,26662
+192,18,M,3,Low,Reactive,Not Eligible,5,10,10,10,7,37,Academic,1,Emotional Support Workshop,Journaling,0,2.63,22994
+193,21,M,3,Medium,Reserved,Not Placed,5,8,9,10,1,28,Family,0,Financial Aid Consultation,Journaling,1,2.81,36603
+194,18,F,2,High,Aggressive,Not Placed,7,1,2,6,4,13,Family,1,Emotional Support Workshop,Exercise,0,2.81,23699
+195,19,F,2,High,Reactive,Not Placed,5,10,7,9,7,33,Academic,0,Peer Support,Socializing,1,3.29,33206
+196,24,F,3,High,Reactive,Not Eligible,8,10,9,2,8,29,Academic,1,Peer Support,Socializing,1,2.66,15444
+197,20,M,3,High,Positive,Placed,7,5,4,5,4,18,Academic,0,Family Counseling,Journaling,1,2.44,48112
+198,19,M,2,Low,Reactive,Placed,8,10,8,7,10,35,Academic,1,Financial Aid Consultation,Socializing,1,3.28,25190
+199,21,F,2,Low,Aggressive,Placed,5,2,9,8,10,29,Emotional,1,Peer Support,Exercise,1,2.82,47647
+200,21,M,3,Low,Reactive,Not Eligible,7,2,1,6,9,18,Emotional,0,Financial Aid Consultation,Exercise,1,3.49,16626
