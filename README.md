@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-gh repo clone Fanish2952/SMART
+https://github.com/Fanish2952/SMART.git
 cd SMART-project
 Install required packages:
 
